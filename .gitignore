@@ -1,0 +1,12 @@
+# Rust
+target/
+**/target/
+*.pdb
+
+# Secrets — never commit
+.env
+.env.local
+*.key
+
+# macOS
+.DS_Store
