@@ -179,7 +179,7 @@ confusing. Resuming after a few weeks away should cost minutes, not a day.
 
 ## Progress
 
-- [x] Setup — toolchain, three chapters, one working API call
+- [x] Setup — toolchain installed, project 1 scaffolded and compiling
 - [ ] 1 · structured-output
 - [ ] 2 · evaluation
 - [ ] 3 · ingestion
